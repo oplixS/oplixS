@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineering Student @ 1337 (42 Network)
 
-[![1337 Badge](https://img.shields.io/badge/1337-Intra_Profile-black?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/elanghas)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/elanghas" alt="elanghas's 42 stats" /></a>
 
 I am a passionate software engineering student currently navigating the intense, peer-to-peer learning environment of **1337 School**. My journey started with a deep dive into the fundamentals of computer science through C programming, and I am now expanding my horizons into the world of Python and beyond.
 
